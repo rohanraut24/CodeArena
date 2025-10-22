@@ -46,8 +46,8 @@ replay_pid*
 
 # Environment / Properties
 *.env
-#application*.properties
-#application*.yml
+application*.properties
+application*.yml
 
 # Node / frontend if any
 node_modules/
